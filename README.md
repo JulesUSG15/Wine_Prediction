@@ -7,7 +7,7 @@ This project develops machine learning and deep learning models to predict wine 
 ## Datasets
 
 - `winequality-white.csv`: Contains data and physico-chemical characteristics of white wines, as well as their quality.
-- winequality-red.csv`: Contains the data and physico-chemical characteristics of red wines, as well as their quality.
+- `winequality-red.csv`: Contains the data and physico-chemical characteristics of red wines, as well as their quality.
 
 ## Technologies used
 
@@ -19,10 +19,10 @@ This project develops machine learning and deep learning models to predict wine 
 
 ## Project Structure
 
-- Wine_white_Prediction.ipynb` : Notebook for white wine quality prediction.
-- Wine_red_Prediction.ipynb` : Notebook for red wine quality prediction.
-- winequality-white.csv` : Dataset for white wine.
-- winequality-red.csv` : Dataset for red wine.
+- `Wine_white_Prediction.ipynb` : Notebook for white wine quality prediction.
+- `Wine_red_Prediction.ipynb` : Notebook for red wine quality prediction.
+- `winequality-white.csv` : Dataset for white wine.
+- `winequality-red.csv` : Dataset for red wine.
 
 ## Installation
 
